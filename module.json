@@ -1,8 +1,8 @@
 {
-  "id": "dnd5e-spielerhandbuch-plus",
-  "title": "DnD5e Spielerhandbuch Plus",
-  "description": "Enthält das Kompendium des DnD 5. Edition Spielerhandbuchs, Erweiterungen und Homebrew-Inhalte.",
-  "version": "0.8.7-1",
+  "id": "empyris-spielerhandbuch-plus",
+  "title": "Empyris Spielerhandbuch Plus",
+  "description": "Enthält das Kompendium des DnD 5. Edition Spielerhandbuchs, Erweiterungen und Homebrew-Inhalte von Empyris.",
+  "version": "2.0.0",
   "compatibility": {
     "minimum": "10",
     "verified": "16",
