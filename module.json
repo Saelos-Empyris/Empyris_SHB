@@ -27,8 +27,8 @@
       }
     ]
   },
-  "download": "https://github.com/LupoYoru/shb-plus/releases/download/0.8.7-1/module.zip",
-  "manifest": "https://github.com/LupoYoru/shb-plus/releases/download/latest/module.json",
+  "download": "https://github.com/Saelos-Empyris/Empyris_SHB/blob/main/dnd5e-spielerhandbuch-plus.zip",
+  "manifest": "https://github.com/Saelos-Empyris/Empyris_SHB/blob/main/module.json",
   "packs": [
     {
       "name": "1-volker",
